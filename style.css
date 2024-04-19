@@ -1,0 +1,19 @@
+.button{
+    background-color: chocolate;
+    color: blueviolet;
+    cursor: pointer;
+}
+.button:hover{
+background-color: aquamarine;
+color: bisque;
+box-shadow: 0cqmax;
+}
+.button:active{
+    background-color: burlywood;
+}
+
+.button2 {
+    background-color: antiquewhite; 
+    color: blueviolet;
+    cursor: pointer;
+}
